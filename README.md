@@ -114,9 +114,14 @@ https://github.com/captainawais/react-hooks-form-app
 
 ---
 
-# 💻 Installation Instructions
+# 🏢 Internship Task
 
-## 1 Clone Repository
+This project was assigned during my Frontend Developer Internship at Appverse-Technologies to strengthen practical React.js development skills.
 
-```bash
-git clone YOUR_GITHUB_LINK
+---
+
+# 👨‍💻 Developed By
+
+Engr Awais Farooq
+
+Powered by TechFactOfficial
